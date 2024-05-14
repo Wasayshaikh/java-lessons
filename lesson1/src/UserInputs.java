@@ -12,6 +12,7 @@ public class UserInputs {
 
         System.out.printf("Hi I am %s, I am %d years old. And right now I am learning %s",userInput,age,programingLanguage);
 
+        scanner.close();
 
     }
 }
