@@ -62,6 +62,9 @@ public class ArrayListLesson {
         System.out.println(numbers.equals(numbers3));
         System.out.println("Compression only work when the array matches the values on same indexes");
 
+        System.out.println("getting one value of array list");
+        System.out.println(numbers.get(2));
+
 
 
 
