@@ -64,6 +64,9 @@ public class ArrayListLesson {
 
         System.out.println("getting one value of array list");
         System.out.println(numbers.get(2));
+        System.out.println("Clear Array List");
+        numbers.clear();
+        System.out.println(numbers.toString());
 
 
 
