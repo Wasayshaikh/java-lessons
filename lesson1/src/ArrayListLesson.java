@@ -68,7 +68,10 @@ public class ArrayListLesson {
         numbers.clear();
         System.out.println(numbers.toString());
 
-
+        System.out.println("ForEach Loop in Array List");
+        numbers3.forEach(numb->{
+            System.out.println(numb*2);
+        });
 
 
     }
